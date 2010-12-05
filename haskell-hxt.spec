@@ -2,7 +2,7 @@
 
 Name: haskell-%{module}
 Version: 8.3.2
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: XML haskell module 
 Group: Development/Other
 License: MIT
