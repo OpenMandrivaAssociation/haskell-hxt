@@ -6,7 +6,7 @@ Release: %mkrel 2
 Summary: XML haskell module 
 Group: Development/Other
 License: MIT
-Url: http://www.fh-wedel.de/~si/HXmlToolbox/index.html
+Url: https://www.fh-wedel.de/~si/HXmlToolbox/index.html
 Source: http://hackage.haskell.org/packages/archive/%{module}/%{version}/%{module}-%{version}.tar.gz
 BuildRoot: %_tmppath/%name-%version-%release-root
 BuildRequires: haskell-macros
